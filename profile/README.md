@@ -1,4 +1,4 @@
-# 🎭 Aurora Core: Audio-Visual Emotion Recognition System
+# 🔵 Aurora⁺: Audio-Visual Emotion Recognition System
 
 [Live Demo](https://aurora-core.vercel.app/about)
 
